@@ -1,4 +1,4 @@
 [build]
   base = "lovable-project-d8fe40bfaaaaaaa"
   command = "bun run build"
-  publish = "lovable-project-d8fe40bfaaaaaaa/dist/client"
+  publish = "dist/client"
